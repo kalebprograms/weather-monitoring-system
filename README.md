@@ -1,6 +1,6 @@
 # Weather Monitoring and Alert System
 
-Built as a personal project to demonstrate monitoring systems, Satelight API reliability, and alerting workflows.
+Built as a personal project to demonstrate monitoring systems, API reliability, and alerting workflows.
 
 ## Overview
 
