@@ -1,6 +1,6 @@
 # Weather Monitoring and Alert System
 
-Built as a portfolio project to demonstrate monitoring systems, Satelight API reliability, and alerting workflows.
+Built as a prrsonal project to demonstrate monitoring systems, Satelight API reliability, and alerting workflows.
 
 ## Overview
 
